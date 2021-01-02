@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>ESTA ES UNA PRUEBA CON GITHUB</h1>
-    <p>Hola Mundo =D</p>
+    
 </body>
 </html>
